@@ -1,8 +1,6 @@
 ### Hi there, It's me, Berke, your dear friend :) 👋
 
 
-**berkeJr/berkeJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi, I'm Berke <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <h3 align="center">Full-Stack Developer</h3>
