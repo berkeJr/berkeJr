@@ -1,4 +1,4 @@
-### Hi there, It's me, Berke, your dear friend :) 👋
+### Hi there, It's me, Berke :) 👋
 
 
 <h1 align="center">Sayın Berke <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
