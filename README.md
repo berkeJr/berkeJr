@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, It's me, Berke, your dear friend :) 👋
 
-<!--
+
 **berkeJr/berkeJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi, I'm Berke <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
@@ -44,10 +44,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=berkeJr&color=blueviolet" alt="berkeJr" /> </p>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Javascript technologies.
-- 🌱 I’m currently learning front-end and back-end web development process.
+- 🌱 I’m learning front-end and back-end web development process.
 - 📫 Feel free to contact me on any subject via e-mail or twitter.
 
--->
+
