@@ -1,7 +1,7 @@
 ### Hi there, It's me, Berke, your dear friend :) 👋
 
 
-<h1 align="center">Hi, I'm Berke <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Sayın Berke <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <h3 align="center">Full-Stack Developer</h3>
 
