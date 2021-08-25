@@ -44,6 +44,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=berkeJr&color=blueviolet" alt="berkeJr" /> </p>
 
+<h3 align="center">Statistics</h3>
+
+<div align="center" style="margin:10px 10px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkeJr&layout=compact" />
+</div>
+
 - 🔭 I’m currently working on Javascript technologies.
 - 🌱 I’m learning front-end and back-end web development process.
 - 📫 Feel free to contact me on any subject via e-mail or twitter.
