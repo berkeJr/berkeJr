@@ -9,7 +9,7 @@
   <a href="https://twitter.com/sayinberkesayin" style="margin:0 10px">
     <img alt="Berke Sayın's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>&nbsp;
-  <a href="linkedin.com/in/berke-sayın-60bb9b1b5" style="margin:0 10px">
+  <a href="https://www.linkedin.com/in/sayin-berke/" style="margin:0 10px">
     <img alt="Berke Sayın's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>&nbsp;
   <a href="mailto:sayinberkesayin@gmail.com" style="margin:0 10px">
