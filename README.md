@@ -31,6 +31,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />  
 <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/sass/sass.svg" alt="sass" height="42px"/>
 <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg" alt="javascript" height="42px"/>
+<img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" alt="react" height="42px"/>
 <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git-scm" height="42px"/>
 <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
 
@@ -44,6 +45,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=berkeJr&color=blueviolet" alt="berkeJr" /> </p>
 
+<a href="https://git.io/streak-stats"><img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=berkeJr&theme=vue-dark&hide_border=true" height="162px" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="berkeJr's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=berkeJr&show_icons=true&count_private=true&theme=vue-dark&hide_border=true" height="162px"/></a>
+
 <h3 align="center">Statistics</h3>
 
 <div align="center" style="margin:10px 10px">
@@ -53,7 +57,7 @@
 - 🔭 Currently working on Javascript technologies.
 - 🌱 Learning front-end and back-end web development process.
 - 📫 Please feel free to contact me on any subject.
-
+- 💬 Ask me about web development process with back-end and front-end systems, and don't worry, if I know, I'll absolutely help and if I don't know, we can learn tegether :)
 
 
 
