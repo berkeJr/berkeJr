@@ -39,20 +39,12 @@
 
 <h3 align="center">Statistics</h3>
 
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=berkeJr&show_icons=true">
-</p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=berkeJr&color=blueviolet" alt="berkeJr" /> </p>
 
 <a href="https://git.io/streak-stats"><img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=berkeJr&theme=vue-dark&hide_border=true" height="162px" /></a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="berkeJr's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=berkeJr&show_icons=true&count_private=true&theme=vue-dark&hide_border=true" height="162px"/></a>
 
-<h3 align="center">Statistics</h3>
 
-<div align="center" style="margin:10px 10px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkeJr&layout=compact" />
-</div>
 
 - 🔭 Currently working on Javascript technologies.
 - 🌱 Learning front-end and back-end web development process.
