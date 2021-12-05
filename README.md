@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<p align="center">I’m an avid and eager student of Computer Science and practitioner of Software Development. I'm improving myself on JavaScript technologies, PHP and .Net software systems development process. I am very excited and eager to upgrade my skills in both front-end and back-end programming by continually learning and enhancing my skills, and making continuous progress in dynamic work contexts.</p>
+<p align="center">I’m an avid and eager student of Computer Science and practitioner of Software Development. I'm improving myself on JavaScript technologies, especially on React and Material UI for front-end, also studying with .Net software development process. I am very excited and eager to upgrade my skills in both front-end and back-end programming by continually learning and enhancing my skills, and making continuous progress in dynamic work contexts. The way I learn something new is by getting my hands dirty on projects with different levels instead of always getting stuck on so much teory.</p>
 
 <h3 align="center">Technologies</h3>
 
@@ -50,8 +50,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkeJr&layout=compact" />
 </div>
 
-- 🔭 I’m currently working on Javascript technologies.
-- 🌱 I’m learning front-end and back-end web development process.
-- 📫 Feel free to contact me on any subject via e-mail or twitter.
+- 🔭 Currently working on Javascript technologies.
+- 🌱 Learning front-end and back-end web development process.
+- 📫 Please feel free to contact me on any subject.
+
+
 
 
