@@ -48,7 +48,7 @@
 - 🔭 Currently working on Javascript technologies.
 - 🌱 Learning front-end and back-end web development process.
 - 📫 Please feel free to contact me on any subject.
-- 💬 Ask me about web development process with back-end and front-end systems, and don't worry, if I know, I'll absolutely help and if I don't know, we can learn tegether :)
+- 💬 Ask me about web development process with back-end and front-end systems, and don't worry, if I know, I'll absolutely help and if I don't know, we can learn together :)
 
 
 
