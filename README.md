@@ -3,7 +3,7 @@
 
 <h1 align="center">Sayın Berke <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<h3 align="center">Full-Stack JavaScript Developer</h3>
+<h3 align="center">Full Stack JavaScript Developer</h3>
 
 <p align="center">
   <a href="https://twitter.com/sayinberkesayin" style="margin:0 10px">
