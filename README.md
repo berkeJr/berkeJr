@@ -16,7 +16,7 @@
     <img alt="Berke Sayın's Gmail" width="30px" src="https://raw.githubusercontent.com/jzsfkzm/color-icons-for-gmail/master/resources/Gmail-Icon.png" />
   </a>
 
-  <a href="https://medium.com/@sayinberkesayin" style="margin:0 10px">
+  <a href="https://sayinberkesayin.medium.com" style="margin:0 10px">
     <img alt="Berke Sayın's Gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/768px-Medium_logo_Monogram.svg.png" />
   </a>
 </p>
